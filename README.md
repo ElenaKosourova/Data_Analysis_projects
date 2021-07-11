@@ -1,1 +1,1 @@
-Dataquest projects
+The projects in this repository are the guided projects on Data Analysis and Data Science using Python and SQL provided by https://www.dataquest.io. I took the overall direction and guidance and developed my own ideas on data exploration, visualization, analysis, and storytelling. All the projects were created from August 2020 till now, with some eventual modifications afterward.
